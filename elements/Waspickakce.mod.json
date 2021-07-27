@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "etf4rewrwe",
+    "customModelName": "Normal",
+    "name": "Waspickakce",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 20,
+    "efficiency": 219.5,
+    "attackSpeed": 51.0,
+    "enchantability": 500,
+    "damageVsEntity": 51.0,
+    "usageCount": 1001,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all:blocks/grs",
+    "up": "all:blocks/grs",
+    "north": "all:blocks/grs",
+    "east": "all:blocks/grs",
+    "south": "all:blocks/grs",
+    "west": "all:blocks/grs",
+    "particle": "all:blocks/grs"
+  }
+}
